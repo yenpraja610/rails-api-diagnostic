@@ -9,13 +9,13 @@ What is the purpose of a backend?
 // your response here
 ```
 
-What is the purpose of a model in the MVC pattern?
+Which layer in the MVC pattern is used by the controller to fetch data?
 
 ```bash
 // your response here
 ```
 
-What is the purpose of a controller in the MVC pattern?
+Which layer in the MVC pattern communicates with the model?
 
 ```bash
 // your response here
@@ -40,7 +40,37 @@ In which part of the MVC pattern can we find C.R.U.D actions?
 ```
 
 A user action fires a `GET` request for `person/1`. Explain in detail each step
-required for data to be returned to the client.
+required for data to be returned to the client. (bullet points or ordered list)
+
+```bash
+// your response here
+```
+
+What is the command to generate a new rails-api app?
+
+```bash
+// your response here
+```
+
+What is the command to start an instance of a rails server?
+
+```bash
+// your response here
+```
+
+What are the commands to drop, create and migrate a database? (3 bullet points)
+
+```bash
+// your response here
+```
+
+What is the command to scaffold a pet with a name and an age?
+
+```bash
+// your response here
+```
+
+List two advantages of using serializers? (2 bullet points)
 
 ```bash
 // your response here
