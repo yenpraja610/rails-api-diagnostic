@@ -38,6 +38,11 @@ In which part of the MVC pattern can we find C.R.U.D actions?
 ```bash
 // your response here
 ```
+List at least 5 standard actions that C.R.U.D corresponds to?
+
+```bash
+// your response here
+```
 
 A user action fires a `GET` request for `person/1`. Explain in detail each step
 required for data to be returned to the client. (bullet points or ordered list)
