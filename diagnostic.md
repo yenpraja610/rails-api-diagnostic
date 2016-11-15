@@ -38,13 +38,13 @@ In which part of the MVC pattern can we find C.R.U.D actions?
 // your response here
 ```
 
-List at least 5 standard actions that C.R.U.D corresponds to?
+List at least 5 standard rails actions that C.R.U.D requests correspond to?
 
 ```bash
 // your response here
 ```
 
-A user action fires a `GET` request for `/persons/1`. Explain in detail each step
+A user action fires a `GET` request for `/people/1`. Explain in detail each step
 required for data to be returned to the client. (bullet points or ordered list)
 
 ```bash
@@ -63,7 +63,8 @@ What is the command to start an instance of a rails server?
 // your response here
 ```
 
-What are the commands to drop, create and migrate a database? (3 bullet points)
+What are the commands to drop, create and migrate a database from the command
+line? (3 bullet points)
 
 ```bash
 // your response here
