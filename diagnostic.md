@@ -64,7 +64,7 @@ What is the command to start an instance of a rails server?
 ```
 
 What are the commands to drop, create, migrate and seed a database from the command
-line? (3 bullet points)
+line? (5 bullet points)
 
 ```bash
 // your response here
